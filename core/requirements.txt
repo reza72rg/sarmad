@@ -1,0 +1,31 @@
+# Django and REST framework
+Django>=3.2,<5.1
+sql-server.pyodbc==1.0
+mssql-django==1.5
+djangorestframework==3.14.0
+
+# Django Filter
+django-filter==23.5
+
+# Swagger/OpenAPI Documentation
+drf-yasg==1.21.7
+
+# MS SQL Server Database Connector
+mssql-django==1.5
+pyodbc==5.0.1
+
+# JWT Authentication
+djangorestframework-simplejwt==5.3.1
+
+# Utility packages
+python-decouple==3.8
+Pillow==10.1.0
+markdown==3.5
+
+# Additional dependencies for Swagger
+packaging==23.2
+PyYAML==6.0.1
+uritemplate==4.1.1
+
+# deployment module
+gunicorn
